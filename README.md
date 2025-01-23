@@ -6,40 +6,16 @@ Welcome to my professional portfolio! Explore my projects, certifications, and s
 
 ---
 
-## Hi there 👋
-
-<!--
-**synz13/synz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Cybersecurity Portfolio
-
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)
-![Projects Completed](https://img.shields.io/badge/projects-10%2B-green)
-
 > **Aspiring Cybersecurity Analyst** | Passionate about securing systems, analyzing vulnerabilities, and solving complex problems.
 
 ---
 
 ## 🖥️ **About Me**
-Hi! I’m an **entry-level Cybersecurity Analyst** with a strong foundation in:
+Hi! I’m an **entry-level Cybersecurity Analyst** with a foundations in:
 - Network Security
 - Vulnerability Assessment
 - Penetration Testing
 - Incident Response
-
-I’m committed to protecting organizations from cyber threats by leveraging my skills in analysis, problem-solving, and ethical hacking.
 
 ---
 
@@ -64,7 +40,12 @@ I’m committed to protecting organizations from cyber threats by leveraging my 
 - **Certified Ethical Hacker (CEH)**  
   *Issuer*: [EC-Council](https://www.eccouncil.org/)  
   *Date Earned*: [Month, Year]  
-  *Credential ID*: [ID Number or Link]  
+  *Credential ID*: [ID Number or Link]
+
+![Google Cybersecurity](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/60px-Logo_2013_Google.png)
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Certification-%20Cybersecurity-blue?logo=google&style=flat-square)
+
+
 
 ---
 
