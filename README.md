@@ -1,15 +1,12 @@
 # Welcome to My Cybersecurity Portfolio 👋 👨‍💻
-**One Byte at a Time**
 
-![Hacking Animation](https://github.com/yourusername/portfolio/assets/hacking.gif)
-![Hacking Animation](https://i.pin.it/7yhfeDB64.gif)
-![Header GIF](https://i.imgur.com/FVrDnvR.gif)
+![Header GIF](assets/header.gif)
 
-Welcome to my professional portfolio! Explore my projects, certifications, and skills in cybersecurity.
+This is my professional portfolio where you can explore my projects, certifications, and skills in cybersecurity.
 
 ---
 
-> **Aspiring Cybersecurity Analyst** | Passionate about securing systems, analyzing vulnerabilities, and solving complex problems.
+ **Aspiring Cybersecurity Analyst** | Passionate about securing systems, analyzing vulnerabilities, and solving complex problems.
 
 ---
 
