@@ -20,10 +20,13 @@ Hi! I’m an **entry-level Cybersecurity Analyst** with a foundations in:
 ---
 
 ## 📜 **Key Skills**
-- **Technical Tools**: Wireshark, Nmap, Nessus, Metasploit
-- **Languages**: Python, Bash, PowerShell
+- **Technical Tools**: Wireshark, Nmap, tcpdump, Chronicle, Splunk
+- **Languages**: Python, Bash, SQL 
 - **Security Frameworks**: NIST, ISO 27001
-- **Certifications**:
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/60px-Python-logo-notext.svg.png)
+<img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="Bash Logo" width="72" height="72">
+<img src="https://github.com/user-attachments/assets/feaadb3a-a66d-4260-9b06-61ceb87d14d9" alt="SQL Logo" width="70" height="70">
 
 ---
 
