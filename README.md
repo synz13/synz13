@@ -1,6 +1,6 @@
 # Welcome to My Cybersecurity Portfolio 👋 👨‍💻
 
-<img src="https://github.com/synz13/synz13/blob/3eceb6a6e6e7b41bdfeeb9f9cf06eb08818a96fc/image2.gif" alt="Resized GIF" width="450">
+<img src="https://github.com/synz13/synz13/blob/3eceb6a6e6e7b41bdfeeb9f9cf06eb08818a96fc/image2.gif" alt="Resized GIF" width="375">
 
 This is my professional portfolio where you can explore my projects, certifications, and skills in cybersecurity.
 
