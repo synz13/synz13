@@ -1,3 +1,11 @@
+# Cybersecurity Analyst Portfolio 👨‍💻
+
+![Hacking Animation](https://github.com/yourusername/portfolio/assets/hacking.gif)
+
+Welcome to my professional portfolio! Explore my projects, certifications, and skills in cybersecurity.
+
+---
+
 ## Hi there 👋
 
 <!--
@@ -42,6 +50,51 @@ I’m committed to protecting organizations from cyber threats by leveraging my 
 - **Certifications**: 
   - CompTIA Security+ *(In Progress or Completed)*
   - Certified Ethical Hacker (CEH) *(Planned)*
+
+---
+
+## 📖 **Learning and Certifications**
+
+### ✅ **Completed Certifications**
+- **CompTIA Security+**  
+  *Issuer*: [CompTIA](https://www.comptia.org/)  
+  *Date Earned*: [Month, Year]  
+  *Credential ID*: [ID Number or Link to Credential Verification (if available)]  
+
+- **Certified Ethical Hacker (CEH)**  
+  *Issuer*: [EC-Council](https://www.eccouncil.org/)  
+  *Date Earned*: [Month, Year]  
+  *Credential ID*: [ID Number or Link]  
+
+---
+
+### 📚 **Ongoing Learning**
+- **TryHackMe**  
+  - Completed 20+ learning paths, including:
+    - [Complete Beginner Path](https://tryhackme.com/path/total-beginner)
+    - [Cyber Defense Path](https://tryhackme.com/path/cyber-defense)  
+  - Progress: 85% completed on **Red Teaming** path  
+
+- **Hack The Box**  
+  - Solved beginner to intermediate boxes:
+    - *Fortune*, *Knife*, *OpenAdmin*, etc.  
+  - Current Rank: **Script Kiddie**  
+
+- **LinkedIn Learning**  
+  - Courses:
+    - *Learning Cybersecurity Fundamentals*
+    - *Mastering Incident Response with Wireshark*  
+
+---
+
+### 🎯 **Planned Certifications**
+- **Certified Information Systems Security Professional (CISSP)**  
+  *Issuer*: [ISC2](https://www.isc2.org/)  
+  *Target Completion Date*: [Month, Year]  
+
+- **Certified Information Security Manager (CISM)**  
+  *Issuer*: [ISACA](https://www.isaca.org/)  
+  *Target Completion Date*: [Month, Year]  
 
 ---
 
