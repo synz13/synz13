@@ -23,9 +23,7 @@ Hi! I’m an **entry-level Cybersecurity Analyst** with a foundations in:
 - **Technical Tools**: Wireshark, Nmap, Nessus, Metasploit
 - **Languages**: Python, Bash, PowerShell
 - **Security Frameworks**: NIST, ISO 27001
-- **Certifications**: 
-  - CompTIA Security+ *(In Progress or Completed)*
-  - Certified Ethical Hacker (CEH) *(Planned)*
+- **Certifications**:
 
 ---
 
@@ -35,17 +33,15 @@ Hi! I’m an **entry-level Cybersecurity Analyst** with a foundations in:
 - **CompTIA Security+**  
   *Issuer*: [CompTIA](https://www.comptia.org/)  
   *Date Earned*: [Month, Year]  
-  *Credential ID*: [ID Number or Link to Credential Verification (if available)]  
+  *Credential ID*: [ID Number or Link to Credential Verification (if available)]
+  
+  ![Google Cybersecurity](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/60px-Logo_2013_Google.png)
+  ![Google Cybersecurity Certificate](https://img.shields.io/badge/Certification-%20Cybersecurity-blue?logo=google&style=flat-square)
 
 - **Certified Ethical Hacker (CEH)**  
   *Issuer*: [EC-Council](https://www.eccouncil.org/)  
   *Date Earned*: [Month, Year]  
   *Credential ID*: [ID Number or Link]
-
-![Google Cybersecurity](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/60px-Logo_2013_Google.png)
-![Google Cybersecurity Certificate](https://img.shields.io/badge/Certification-%20Cybersecurity-blue?logo=google&style=flat-square)
-
-
 
 ---
 
