@@ -1,7 +1,9 @@
-# Cybersecurity Analyst Portfolio 👨‍💻
+# Welcome to My Cybersecurity Portfolio 👋 👨‍💻
+**One Byte at a Time**
 
 ![Hacking Animation](https://github.com/yourusername/portfolio/assets/hacking.gif)
-![Hacking Animation](https://pin.it/7yhfeDB64)
+![Hacking Animation](https://i.pin.it/7yhfeDB64.gif)
+![Header GIF](https://i.imgur.com/FVrDnvR.gif)
 
 Welcome to my professional portfolio! Explore my projects, certifications, and skills in cybersecurity.
 
