@@ -6,10 +6,6 @@ This is my professional portfolio where you can explore my projects, certificati
 
 ---
 
- **Aspiring Cybersecurity Analyst** | Passionate about securing systems, analyzing vulnerabilities, and solving complex problems.
-
----
-
 ## 🖥️ **About Me**
 Hi! I’m an **entry-level Cybersecurity Analyst** with a foundations in:
 - Network Security
